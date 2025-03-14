@@ -1,0 +1,8 @@
+C:\Users\student\source\repos\LL1_Parser\LL1_Parser\bin\Debug\LL1_Parser.exe.config
+C:\Users\student\source\repos\LL1_Parser\LL1_Parser\bin\Debug\LL1_Parser.exe
+C:\Users\student\source\repos\LL1_Parser\LL1_Parser\bin\Debug\LL1_Parser.pdb
+C:\Users\student\source\repos\LL1_Parser\LL1_Parser\obj\Debug\LL1_Parser.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\LL1_Parser\LL1_Parser\obj\Debug\LL1_Parser.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\source\repos\LL1_Parser\LL1_Parser\obj\Debug\LL1_Parser.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\LL1_Parser\LL1_Parser\obj\Debug\LL1_Parser.exe
+C:\Users\student\source\repos\LL1_Parser\LL1_Parser\obj\Debug\LL1_Parser.pdb
