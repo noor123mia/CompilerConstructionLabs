@@ -1,0 +1,15 @@
+C:\Users\PMYLS\Desktop\CC_Lab_Mid\Lab_12\Lab_12\bin\Debug\net8.0\Lab_12.exe
+C:\Users\PMYLS\Desktop\CC_Lab_Mid\Lab_12\Lab_12\bin\Debug\net8.0\Lab_12.deps.json
+C:\Users\PMYLS\Desktop\CC_Lab_Mid\Lab_12\Lab_12\bin\Debug\net8.0\Lab_12.runtimeconfig.json
+C:\Users\PMYLS\Desktop\CC_Lab_Mid\Lab_12\Lab_12\bin\Debug\net8.0\Lab_12.dll
+C:\Users\PMYLS\Desktop\CC_Lab_Mid\Lab_12\Lab_12\bin\Debug\net8.0\Lab_12.pdb
+C:\Users\PMYLS\Desktop\CC_Lab_Mid\Lab_12\Lab_12\obj\Debug\net8.0\Lab_12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PMYLS\Desktop\CC_Lab_Mid\Lab_12\Lab_12\obj\Debug\net8.0\Lab_12.AssemblyInfoInputs.cache
+C:\Users\PMYLS\Desktop\CC_Lab_Mid\Lab_12\Lab_12\obj\Debug\net8.0\Lab_12.AssemblyInfo.cs
+C:\Users\PMYLS\Desktop\CC_Lab_Mid\Lab_12\Lab_12\obj\Debug\net8.0\Lab_12.csproj.CoreCompileInputs.cache
+C:\Users\PMYLS\Desktop\CC_Lab_Mid\Lab_12\Lab_12\obj\Debug\net8.0\Lab_12.sourcelink.json
+C:\Users\PMYLS\Desktop\CC_Lab_Mid\Lab_12\Lab_12\obj\Debug\net8.0\Lab_12.dll
+C:\Users\PMYLS\Desktop\CC_Lab_Mid\Lab_12\Lab_12\obj\Debug\net8.0\refint\Lab_12.dll
+C:\Users\PMYLS\Desktop\CC_Lab_Mid\Lab_12\Lab_12\obj\Debug\net8.0\Lab_12.pdb
+C:\Users\PMYLS\Desktop\CC_Lab_Mid\Lab_12\Lab_12\obj\Debug\net8.0\Lab_12.genruntimeconfig.cache
+C:\Users\PMYLS\Desktop\CC_Lab_Mid\Lab_12\Lab_12\obj\Debug\net8.0\ref\Lab_12.dll
