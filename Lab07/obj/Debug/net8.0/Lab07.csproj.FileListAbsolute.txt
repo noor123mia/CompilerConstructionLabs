@@ -1,0 +1,15 @@
+C:\Users\PMYLS\Desktop\CC_Lab_Mid\Lab07\bin\Debug\net8.0\Lab07.exe
+C:\Users\PMYLS\Desktop\CC_Lab_Mid\Lab07\bin\Debug\net8.0\Lab07.deps.json
+C:\Users\PMYLS\Desktop\CC_Lab_Mid\Lab07\bin\Debug\net8.0\Lab07.runtimeconfig.json
+C:\Users\PMYLS\Desktop\CC_Lab_Mid\Lab07\bin\Debug\net8.0\Lab07.dll
+C:\Users\PMYLS\Desktop\CC_Lab_Mid\Lab07\bin\Debug\net8.0\Lab07.pdb
+C:\Users\PMYLS\Desktop\CC_Lab_Mid\Lab07\obj\Debug\net8.0\Lab07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PMYLS\Desktop\CC_Lab_Mid\Lab07\obj\Debug\net8.0\Lab07.AssemblyInfoInputs.cache
+C:\Users\PMYLS\Desktop\CC_Lab_Mid\Lab07\obj\Debug\net8.0\Lab07.AssemblyInfo.cs
+C:\Users\PMYLS\Desktop\CC_Lab_Mid\Lab07\obj\Debug\net8.0\Lab07.csproj.CoreCompileInputs.cache
+C:\Users\PMYLS\Desktop\CC_Lab_Mid\Lab07\obj\Debug\net8.0\Lab07.sourcelink.json
+C:\Users\PMYLS\Desktop\CC_Lab_Mid\Lab07\obj\Debug\net8.0\Lab07.dll
+C:\Users\PMYLS\Desktop\CC_Lab_Mid\Lab07\obj\Debug\net8.0\refint\Lab07.dll
+C:\Users\PMYLS\Desktop\CC_Lab_Mid\Lab07\obj\Debug\net8.0\Lab07.pdb
+C:\Users\PMYLS\Desktop\CC_Lab_Mid\Lab07\obj\Debug\net8.0\Lab07.genruntimeconfig.cache
+C:\Users\PMYLS\Desktop\CC_Lab_Mid\Lab07\obj\Debug\net8.0\ref\Lab07.dll
