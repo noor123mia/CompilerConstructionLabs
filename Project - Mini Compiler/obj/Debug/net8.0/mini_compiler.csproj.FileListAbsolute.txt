@@ -1,0 +1,15 @@
+C:\Users\PMYLS\Desktop\CC_Lab_Mid\mini_compiler\obj\Debug\net8.0\mini_compiler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PMYLS\Desktop\CC_Lab_Mid\mini_compiler\obj\Debug\net8.0\mini_compiler.AssemblyInfoInputs.cache
+C:\Users\PMYLS\Desktop\CC_Lab_Mid\mini_compiler\obj\Debug\net8.0\mini_compiler.AssemblyInfo.cs
+C:\Users\PMYLS\Desktop\CC_Lab_Mid\mini_compiler\obj\Debug\net8.0\mini_compiler.csproj.CoreCompileInputs.cache
+C:\Users\PMYLS\Desktop\CC_Lab_Mid\mini_compiler\obj\Debug\net8.0\mini_compiler.sourcelink.json
+C:\Users\PMYLS\Desktop\CC_Lab_Mid\mini_compiler\bin\Debug\net8.0\mini_compiler.exe
+C:\Users\PMYLS\Desktop\CC_Lab_Mid\mini_compiler\bin\Debug\net8.0\mini_compiler.deps.json
+C:\Users\PMYLS\Desktop\CC_Lab_Mid\mini_compiler\bin\Debug\net8.0\mini_compiler.runtimeconfig.json
+C:\Users\PMYLS\Desktop\CC_Lab_Mid\mini_compiler\bin\Debug\net8.0\mini_compiler.dll
+C:\Users\PMYLS\Desktop\CC_Lab_Mid\mini_compiler\bin\Debug\net8.0\mini_compiler.pdb
+C:\Users\PMYLS\Desktop\CC_Lab_Mid\mini_compiler\obj\Debug\net8.0\mini_compiler.dll
+C:\Users\PMYLS\Desktop\CC_Lab_Mid\mini_compiler\obj\Debug\net8.0\refint\mini_compiler.dll
+C:\Users\PMYLS\Desktop\CC_Lab_Mid\mini_compiler\obj\Debug\net8.0\mini_compiler.pdb
+C:\Users\PMYLS\Desktop\CC_Lab_Mid\mini_compiler\obj\Debug\net8.0\mini_compiler.genruntimeconfig.cache
+C:\Users\PMYLS\Desktop\CC_Lab_Mid\mini_compiler\obj\Debug\net8.0\ref\mini_compiler.dll
